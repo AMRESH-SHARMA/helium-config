@@ -1,0 +1,6 @@
+{
+  "apiBaseUrl": "http://10.37.218.61:3001/",
+  "cdnBaseUrl": "https://cdn.myapp.com",
+  "minVersion": 1,
+  "forceUpdate": false
+}
