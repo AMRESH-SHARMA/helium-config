@@ -1,6 +1,6 @@
 {
-  "apiBaseUrl": "http://34.14.150.237:3001/api/v1/",
-  "wsBaseUrl": "ws://34.14.150.237:3001/"
+  "apiBaseUrl": "http://127.0.0.1:3001/api/v1/",
+  "wsBaseUrl": "ws://127.0.0.1:3001 /"
   "cdnBaseUrl": "https://cdn.myapp.com",
   "minVersion": 1,
   "forceUpdate": false
