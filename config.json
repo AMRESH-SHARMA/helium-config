@@ -1,8 +1,12 @@
 {
   "apiBaseUrl": "http://34.93.18.247:3001/api/v1/",
-  "wsBaseUrl": "ws://34.93.18.247:3001/"
+  "wsBaseUrl": "ws://34.93.18.247:3001/",
   "cdnBaseUrl": "https://cdn.myapp.com",
   "minVersion": 1,
-  "forceUpdate": false
+  "forceUpdate": false,
+  "offer": {
+    "title": "🎁 Limited Time Offer",
+    "body": "Get 30% extra coins on your next recharge",
+    "enabled": true
+  }
 }
-
